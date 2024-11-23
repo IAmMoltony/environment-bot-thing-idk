@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "difficulty": "easy",
+            "title": "Conserve water",
+            "body": "Turn off the tap when brushing your teeth or washing dishes."
+        },
+        {
+            "difficulty": "easy",
+            "title": "Go paperless",
+            "body": "Use digital receipts instead of physical ones to reduce unnecessary printing."
+        },
+        {
+            "difficulty": "normal",
+            "title": "Compost organic waste",
+            "body": "Create a compost bin for yard waste and food scraps."
+        },
+        {
+            "difficulty": "normal",
+            "title": "Plant a tree",
+            "body": "Help improve air quality by simply planting a tree."
+        },
+        {
+            "difficulty": "hard",
+            "title": "Switch to renewable energy",
+            "body": "Install solar panels or choose renewable energy plans if available."
+        },
+        {
+            "difficulty": "hard",
+            "title": "Adopt sustainable transportation",
+            "body": "Consider using an electric vehicle or carpooling regularly."
+        }
+    ]
+}

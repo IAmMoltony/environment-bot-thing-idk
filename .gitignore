@@ -1,0 +1,8 @@
+# the token (of course)
+token.txt
+
+# vim swap files
+*.swp
+
+# python cache files
+__pycache__/
