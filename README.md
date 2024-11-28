@@ -34,3 +34,20 @@ and then just run it
 ```bash
 $ ./main.py
 ```
+
+## ricing
+
+change tasks.json if you want your own tasks like:
+
+```json
+{
+    "tasks": [
+        {
+            "difficulty": "hard", // this can be normal easy or hard
+            "title": "touch grass",
+            "body": "go outside for once"
+        },
+        // other tasks if u want
+    ]
+}
+```
